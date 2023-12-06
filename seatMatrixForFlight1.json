@@ -1,0 +1,1658 @@
+{
+  "1": {
+    "A": {
+      "seat_info": {
+        "seat_id": 1,
+        "seat_column": "A",
+        "seat_row": 1,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 29,
+        "seat_column": "B",
+        "seat_row": 1,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 105,
+        "seat_column": "F",
+        "seat_row": 1,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 133,
+        "seat_column": "G",
+        "seat_row": 1,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "2": {
+    "A": {
+      "seat_info": {
+        "seat_id": 2,
+        "seat_column": "A",
+        "seat_row": 2,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 30,
+        "seat_column": "B",
+        "seat_row": 2,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 106,
+        "seat_column": "F",
+        "seat_row": 2,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 134,
+        "seat_column": "G",
+        "seat_row": 2,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "3": {
+    "A": {
+      "seat_info": {
+        "seat_id": 3,
+        "seat_column": "A",
+        "seat_row": 3,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 31,
+        "seat_column": "B",
+        "seat_row": 3,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 107,
+        "seat_column": "F",
+        "seat_row": 3,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 135,
+        "seat_column": "G",
+        "seat_row": 3,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "4": {
+    "A": {
+      "seat_info": {
+        "seat_id": 4,
+        "seat_column": "A",
+        "seat_row": 4,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 32,
+        "seat_column": "B",
+        "seat_row": 4,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 108,
+        "seat_column": "F",
+        "seat_row": 4,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 136,
+        "seat_column": "G",
+        "seat_row": 4,
+        "seat_type_id": 1,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "8": {
+    "A": {
+      "seat_info": {
+        "seat_id": 5,
+        "seat_column": "A",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 33,
+        "seat_column": "B",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 57,
+        "seat_column": "C",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 81,
+        "seat_column": "E",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 109,
+        "seat_column": "F",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 137,
+        "seat_column": "G",
+        "seat_row": 8,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "9": {
+    "A": {
+      "seat_info": {
+        "seat_id": 6,
+        "seat_column": "A",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 34,
+        "seat_column": "B",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 58,
+        "seat_column": "C",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 82,
+        "seat_column": "E",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 110,
+        "seat_column": "F",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 138,
+        "seat_column": "G",
+        "seat_row": 9,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "10": {
+    "A": {
+      "seat_info": {
+        "seat_id": 7,
+        "seat_column": "A",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 35,
+        "seat_column": "B",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 59,
+        "seat_column": "C",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 83,
+        "seat_column": "E",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 111,
+        "seat_column": "F",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 139,
+        "seat_column": "G",
+        "seat_row": 10,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "11": {
+    "A": {
+      "seat_info": {
+        "seat_id": 8,
+        "seat_column": "A",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 36,
+        "seat_column": "B",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 60,
+        "seat_column": "C",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 84,
+        "seat_column": "E",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 112,
+        "seat_column": "F",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 140,
+        "seat_column": "G",
+        "seat_row": 11,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "12": {
+    "A": {
+      "seat_info": {
+        "seat_id": 9,
+        "seat_column": "A",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 37,
+        "seat_column": "B",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 61,
+        "seat_column": "C",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 85,
+        "seat_column": "E",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 113,
+        "seat_column": "F",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 141,
+        "seat_column": "G",
+        "seat_row": 12,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "13": {
+    "A": {
+      "seat_info": {
+        "seat_id": 10,
+        "seat_column": "A",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 38,
+        "seat_column": "B",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 62,
+        "seat_column": "C",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 86,
+        "seat_column": "E",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 114,
+        "seat_column": "F",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 142,
+        "seat_column": "G",
+        "seat_row": 13,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "14": {
+    "A": {
+      "seat_info": {
+        "seat_id": 11,
+        "seat_column": "A",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 39,
+        "seat_column": "B",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 63,
+        "seat_column": "C",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 87,
+        "seat_column": "E",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 115,
+        "seat_column": "F",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 143,
+        "seat_column": "G",
+        "seat_row": 14,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "15": {
+    "A": {
+      "seat_info": {
+        "seat_id": 12,
+        "seat_column": "A",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 40,
+        "seat_column": "B",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 64,
+        "seat_column": "C",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 88,
+        "seat_column": "E",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 116,
+        "seat_column": "F",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 144,
+        "seat_column": "G",
+        "seat_row": 15,
+        "seat_type_id": 2,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "19": {
+    "A": {
+      "seat_info": {
+        "seat_id": 13,
+        "seat_column": "A",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 41,
+        "seat_column": "B",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 65,
+        "seat_column": "C",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 89,
+        "seat_column": "E",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 117,
+        "seat_column": "F",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 145,
+        "seat_column": "G",
+        "seat_row": 19,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "20": {
+    "A": {
+      "seat_info": {
+        "seat_id": 14,
+        "seat_column": "A",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 42,
+        "seat_column": "B",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 66,
+        "seat_column": "C",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 90,
+        "seat_column": "E",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 118,
+        "seat_column": "F",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 146,
+        "seat_column": "G",
+        "seat_row": 20,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "21": {
+    "A": {
+      "seat_info": {
+        "seat_id": 15,
+        "seat_column": "A",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 43,
+        "seat_column": "B",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 67,
+        "seat_column": "C",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 91,
+        "seat_column": "E",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 119,
+        "seat_column": "F",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 147,
+        "seat_column": "G",
+        "seat_row": 21,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "22": {
+    "A": {
+      "seat_info": {
+        "seat_id": 16,
+        "seat_column": "A",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 44,
+        "seat_column": "B",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 68,
+        "seat_column": "C",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 92,
+        "seat_column": "E",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 120,
+        "seat_column": "F",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 148,
+        "seat_column": "G",
+        "seat_row": 22,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "23": {
+    "A": {
+      "seat_info": {
+        "seat_id": 17,
+        "seat_column": "A",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 45,
+        "seat_column": "B",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 69,
+        "seat_column": "C",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 93,
+        "seat_column": "E",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 121,
+        "seat_column": "F",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 149,
+        "seat_column": "G",
+        "seat_row": 23,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "24": {
+    "A": {
+      "seat_info": {
+        "seat_id": 18,
+        "seat_column": "A",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 46,
+        "seat_column": "B",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 70,
+        "seat_column": "C",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 94,
+        "seat_column": "E",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 122,
+        "seat_column": "F",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 150,
+        "seat_column": "G",
+        "seat_row": 24,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "25": {
+    "A": {
+      "seat_info": {
+        "seat_id": 19,
+        "seat_column": "A",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 47,
+        "seat_column": "B",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 71,
+        "seat_column": "C",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 95,
+        "seat_column": "E",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 123,
+        "seat_column": "F",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 151,
+        "seat_column": "G",
+        "seat_row": 25,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "26": {
+    "A": {
+      "seat_info": {
+        "seat_id": 20,
+        "seat_column": "A",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 48,
+        "seat_column": "B",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 72,
+        "seat_column": "C",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 96,
+        "seat_column": "E",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 124,
+        "seat_column": "F",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 152,
+        "seat_column": "G",
+        "seat_row": 26,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "27": {
+    "A": {
+      "seat_info": {
+        "seat_id": 21,
+        "seat_column": "A",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 49,
+        "seat_column": "B",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 73,
+        "seat_column": "C",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 97,
+        "seat_column": "E",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 125,
+        "seat_column": "F",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 153,
+        "seat_column": "G",
+        "seat_row": 27,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "28": {
+    "A": {
+      "seat_info": {
+        "seat_id": 22,
+        "seat_column": "A",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 50,
+        "seat_column": "B",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 74,
+        "seat_column": "C",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 98,
+        "seat_column": "E",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 126,
+        "seat_column": "F",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 154,
+        "seat_column": "G",
+        "seat_row": 28,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "29": {
+    "A": {
+      "seat_info": {
+        "seat_id": 23,
+        "seat_column": "A",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 51,
+        "seat_column": "B",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 75,
+        "seat_column": "C",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 99,
+        "seat_column": "E",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 127,
+        "seat_column": "F",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 155,
+        "seat_column": "G",
+        "seat_row": 29,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "30": {
+    "A": {
+      "seat_info": {
+        "seat_id": 24,
+        "seat_column": "A",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 52,
+        "seat_column": "B",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 76,
+        "seat_column": "C",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 100,
+        "seat_column": "E",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 128,
+        "seat_column": "F",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 156,
+        "seat_column": "G",
+        "seat_row": 30,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    }
+  },
+  "31": {
+    "A": {
+      "seat_info": {
+        "seat_id": 25,
+        "seat_column": "A",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 53,
+        "seat_column": "B",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 77,
+        "seat_column": "C",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 101,
+        "seat_column": "E",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 129,
+        "seat_column": "F",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 157,
+        "seat_column": "G",
+        "seat_row": 31,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "32": {
+    "A": {
+      "seat_info": {
+        "seat_id": 26,
+        "seat_column": "A",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 54,
+        "seat_column": "B",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 78,
+        "seat_column": "C",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 102,
+        "seat_column": "E",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 130,
+        "seat_column": "F",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 158,
+        "seat_column": "G",
+        "seat_row": 32,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "33": {
+    "A": {
+      "seat_info": {
+        "seat_id": 27,
+        "seat_column": "A",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 55,
+        "seat_column": "B",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 79,
+        "seat_column": "C",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 103,
+        "seat_column": "E",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 131,
+        "seat_column": "F",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": true
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 159,
+        "seat_column": "G",
+        "seat_row": 33,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  },
+  "34": {
+    "A": {
+      "seat_info": {
+        "seat_id": 28,
+        "seat_column": "A",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "B": {
+      "seat_info": {
+        "seat_id": 56,
+        "seat_column": "B",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "C": {
+      "seat_info": {
+        "seat_id": 80,
+        "seat_column": "C",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "E": {
+      "seat_info": {
+        "seat_id": 104,
+        "seat_column": "E",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "F": {
+      "seat_info": {
+        "seat_id": 132,
+        "seat_column": "F",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    },
+    "G": {
+      "seat_info": {
+        "seat_id": 160,
+        "seat_column": "G",
+        "seat_row": 34,
+        "seat_type_id": 3,
+        "airplane_id": 1
+      },
+      "is_occupied": false
+    }
+  }
+}
